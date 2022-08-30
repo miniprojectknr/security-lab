@@ -1,0 +1,21 @@
+REFERENCES
+
+WikiPedia
+o https://en.wikipedia.org/wiki/GMER
+o https://en.wikipedia.org/wiki/Snort_(software)
+o https://en.wikipedia.org/wiki/Trojan_horse_(computing)
+
+GeeksForGeeks
+o https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
+o https://www.geeksforgeeks.org/sha-1-hash-in-java/
+o https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
+o https://www.geeksforgeeks.org/how-to-solve-rsa-algorithm-problems/
+o https://www.geeksforgeeks.org/playfair-cipher-with-examples/
+
+Build Your Own Security Lab, Michael Gregg, Wiley India
+o https://doc.lagout.org/security/Build%20Your%20Own%20Security%
+20Lab%20for%20Network%20Testing.pdf
+
+Some other Websites
+o https://forums.malwarebytes.com/topic/200301-sneaky-rootkit-help-needed/
+o https://itstillworks.com/use-gmer-remove-rootkit-6102694.html

@@ -1,0 +1,8 @@
+Software Download Links:
+
+
+1. Visual Studio Code: https://code.visualstudio.com/download
+2. Snort - https://www.snort.org/downloads
+3. N-Stalker - https://www.nstalker.com/products/editions/free/download/
+4. GMER - http://www.gmer.net/
+5. JAVA - https://www.java.com/en/download
